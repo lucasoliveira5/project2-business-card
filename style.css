@@ -1,0 +1,49 @@
+body {
+
+	background-color: black;
+}
+
+.card {
+
+	width: 500px;
+	height: 250px;
+	box-sizing: border-box;
+	padding: 1px 20px;
+	background-image: url(assets/backgroud.jpg);
+	background-size: cover;
+	margin: auto;
+	margin-top: 10%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+
+}
+
+.instagram {
+
+	list-style-image: url(assets/insta.png);
+
+}
+
+.twitter {
+
+	list-style-image: url(assets/Twitter.png);
+
+}
+
+.linkedin {
+
+	list-style-image: url(assets/linkedin.png);
+
+}
+
+.github {
+	list-style-image: url(assets/github.png);
+}
+
+
+#Name {
+	line-height: 5px;
+}
